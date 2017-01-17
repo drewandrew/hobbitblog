@@ -1,5 +1,7 @@
 # The Hobbit Blog
 
+[Open App](https://hobbitblog.herokuapp.com/)
+
 This project was created by Andrew Dixon for educational purposes. The current version makes use of the following libraries and resources:
 - [Create React App](https://github.com/facebookincubator/create-react-app)
   - Webpack
